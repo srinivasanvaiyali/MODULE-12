@@ -43,5 +43,6 @@ void input(int arr[])
 
 
  ## Result:
+ The program successfully accepts array elements from the user and displays the array sorted using insertion sort.
 
 
