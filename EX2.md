@@ -38,4 +38,4 @@ void print(int arr[]){
 
 ## Result:
 
-
+The program successfully reads array elements, sorts them, and prints the sorted list.
